@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Authentication App</string>
+    <string name="no_data">Not Signed In</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign Out </string>
+    <string name="register">Register </string>
+    <string name="login">Login </string>
+    <string name="client_id">36530487138-phrgpgp841vs8jga9aljl88m64doc3id.apps.googleusercontent.com </string>
+</resources>
