@@ -106,11 +106,15 @@ The application follows **MVVM (Model-View-ViewModel)** architecture pattern wit
 
 ## 📷 Screenshots
 
-*Screenshots will be added here showcasing the app's main features*
+*Screenshots showcasing the app's main features*
 
-| Login Screen | Company Selection | Product Listing | Product Details |
-|--------------|------------------|-----------------|-----------------|
-| Coming Soon  | Coming Soon      | Coming Soon     | Coming Soon     |
+| Login Screen | Home Page | Company Selection | Product Listing |
+|--------------|-----------|------------------|-----------------|
+| ![Login Screen](GitHub%20Images/Screenshot%202025-09-27%20124843.png) | ![Home Page](GitHub%20Images/Screenshot%202025-09-27%20124911.png) | ![Company Selection](GitHub%20Images/Screenshot%202025-09-27%20125214.png) | ![Product Listing](GitHub%20Images/Screenshot%202025-09-27%20125326.png) |
+
+| Product Details | Add Product |
+|-----------------|-------------|
+| ![Product Details](GitHub%20Images/Screenshot%202025-09-27%20125432.png) | ![Add Product](GitHub%20Images/Screenshot%202025-09-27%20125506.png) |
 
 ## 🚀 Installation
 
